@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sn7jQQo4uX1ns1IADPjF2ax4QPbn/XkjohckVvmXZDUE6/THhSQWjzZPuDcuMtK2ZK9O44qGdtGgyCrRpp77eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eigenaar\\source\\repos\\ParkingApp\\ParkingApp\\ParkingApp.iOS\\ParkingApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Eigenaar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
